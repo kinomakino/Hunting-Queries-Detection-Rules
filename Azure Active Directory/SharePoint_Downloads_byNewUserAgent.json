@@ -13,7 +13,7 @@
                           "kind":  "Scheduled",
                           "name":  "[concat(parameters(\u0027workspace\u0027),\u0027/Microsoft.SecurityInsights/5dd76a87-9f87-4576-bab3-268b0e2b338b\u0027)]",
                           "properties":  {
-                                             "alertRuleTemplateName":  "5dd76a87-9f87-4576-bab3-268b0e2b338b",
+                                             "alertRuleTemplateName":  "00000-9f87-4576-bab3-268b0e2b338b",
                                              "customDetails":  null,
                                              "description":  "\u0027Identifies anomalies if the number of documents uploaded or downloaded from device(s) associated with a previously unseen user agent exceeds a threshold (default is 5) and deviation (default is 25).\u0027\n",
                                              "displayName":  "SharePointFileOperation via devices with previously unseen user agents",
